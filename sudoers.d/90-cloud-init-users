@@ -1,0 +1,4 @@
+# Created by cloud-init v. 20.2 on Mon, 26 Sep 2022 13:35:33 +0000
+
+# User rules for devops5
+devops5 ALL=(ALL) NOPASSWD:ALL
